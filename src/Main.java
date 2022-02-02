@@ -9,7 +9,8 @@ public class Main {
 
         System.out.print("Введите размерность массива: ");
         b.a = scanner.nextInt();
-        System.out.println(b.mas);
+        System.out.println(b.mas2);
+        System.out.println(b.a)
 
     }
 }
